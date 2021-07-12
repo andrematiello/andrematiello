@@ -5,7 +5,7 @@
 ##
 
 ### About
-<p align="left"><br>
+<p align="left">
 Currently, I'm Captain of the Military Police of the State of São Paulo.<br>
 Curious, studying and learning [Front] HTML5, CSS3 and JavaScript, [Back] Node.JS, [Data] PostgreSQL, MongoDB, beyond Git and Github, have a little experience in software design and development.<br>
 Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @digitalinnovationone<br>
@@ -16,11 +16,13 @@ Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @
 ##
 ### Stack
 <div style="display: inline_block">
-  <img align="center" alt="matiello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="matiello-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="matiello-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="matiello-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="matiello-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="matiello-HTML" height="30" width="40" src="./assets/html5.svg">
+  <img align="center" alt="matiello-CSS" height="30" width="40" src="./assets/img-desktop-github.jpg">
+  <img align="center" alt="matiello-Js" height="30" width="40" src="./assets/img-desktop-github.jpg">
+  <img align="center" alt="matiello-Ts" height="30" width="40" src="./assets/img-desktop-github.jpg">
+  <img align="center" alt="matiello-React" height="30" width="40" src="./assets/img-desktop-github.jpg">
+  <img align="center" alt="matiello-HTML" height="30" width="40" src="./assets/img-desktop-github.jpg">
+  <img align="center" alt="matiello-CSS" height="30" width="40" src="./assets/img-desktop-github.jpg">
 </div>
 
 <!-- ****************************************** Contact ****************************************** -->
