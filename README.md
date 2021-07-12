@@ -1,16 +1,42 @@
-### Hi there 👋
+<!-- *********************************** Banner ************************************************ -->
+<img src="./assets/img-desktop-github.jpg" align="center">
 
-<!--
-**andrematiello/andrematiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ****************************************** Bio ******************************************** -->
+##
 
-Here are some ideas to get you started:
+### About
+<p align="left"><br>
+Currently, I'm Captain of the Military Police of the State of São Paulo.<br>
+Curious, studying and learning [Front] HTML5, CSS3 and JavaScript, [Back] Node.JS, [Data] PostgreSQL, MongoDB, beyond Git and Github, have a little experience in software design and development.<br>
+Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @digitalinnovationone<br>
+#motivated #alwaysLearning #keepStudying
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ****************************************** Stack ****************************************** -->
+##
+### Stack
+<div style="display: inline_block">
+  <img align="center" alt="matiello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="matiello-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="matiello-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="matiello-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="matiello-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<!-- ****************************************** Contact ****************************************** -->
+##
+### Contact
+<p align="left">
+LinkedIn: www.linkedin.com/in/andrematiello/<br>
+Site: coming soon<br>
+E-mail: matiello.andre@hotmail.com<br>
+</p>
+
+<!-- ****************************************** Activity ***************************************** -->
+##
+### Activity
+<div><br>
+  <a href="https://github.com/andrematiello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrematiello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrematiello&layout=compact&langs_count=7&theme=dracula"/>
+</div>
