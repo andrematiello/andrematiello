@@ -35,8 +35,8 @@ Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @
 ### Contact
 <p align="left">
 LinkedIn: www.linkedin.com/in/andrematiello/<br>
-Site: coming soon<br>
 E-mail: matiello.andre@hotmail.com<br>
+Site: coming soon<br>
 </p>
 
 <!-- ****************************************** Activity ***************************************** -->
