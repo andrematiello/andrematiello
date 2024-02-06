@@ -7,8 +7,8 @@
 ### About
 <p align="left">
 Currently, I'm Captain of the Military Police of the State of São Paulo.<br>
-Curious, studying and learning [Front] HTML5, CSS3 and JavaScript, [Back] Node.JS, [Data] PostgreSQL, MongoDB, beyond Git and Github, have a little experience in software design and development.<br>
-Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @digitalinnovationone<br>
+Curious, specializing in identifying problems, selecting, collecting, preparing and cleaning the best data for robust data processing and analysis, providing effective results, through sensational presentations, proposing the best possible business solutions.<br>
+Huge fan of @datascienceacademy @google @amazon @microsoft @apple @<br>
 #motivated #alwaysLearning #keepStudying
 </p>
 
@@ -16,18 +16,18 @@ Huge fan of @cursoemvideo, @cataline.io, @alura, @gamaacademy, @rocketseat and @
 ##
 ### Stack and Environment
 <div style="display: inline_block">
-  <img align="center" alt="matiello-HTML" height="30" width="40" src="./assets/html5.svg">
-  <img align="center" alt="matiello-CSS" height="30" width="40" src="./assets/css3.svg">
-  <img align="center" alt="matiello-Js" height="30" width="40" src="./assets/javascript.svg">
-  <img align="center" alt="matiello-Ts" height="30" width="40" src="./assets/typescript.svg">
-  <img align="center" alt="matiello-React" height="30" width="40" src="./assets/react.svg">
-  <img align="center" alt="matiello-Node" height="30" width="40" src="./assets/nodejs.svg">
-  <img align="center" alt="matiello-MongoDB" height="30" width="40" src="./assets/mongodb.svg">
-  <img align="center" alt="matiello-MySQL" height="30" width="40" src="./assets/mysql.svg">
-  <img align="center" alt="matiello-Git" height="30" width="40" src="./assets/git.svg">
-  <img align="center" alt="matiello-Github" height="30" width="40" src="./assets/github.svg">
+  <img align="center" alt="matiello-EXCEL" height="30" width="40" src="./assets/excel.svg">
+  <img align="center" alt="matiello-GOOGLE SPREEDSHEAT" height="30" width="40" src="./assets/sheet.svg">
+  <img align="center" alt="matiello-SQL" height="30" width="40" src="./assets/sql.png">
+  <img align="center" alt="matiello-PYTHON" height="30" width="40" src="./assets/python.svg">
+  <img align="center" alt="matiello-R-LANGUAGE" height="30" width="40" src="./assets/r-language.svg">
+  <img align="center" alt="matiello-POWER-BI" height="30" width="40" src="./assets/power-bi.svg">
+  <img align="center" alt="matiello-TABLEAU" height="30" width="40" src="./assets/tableau.svg">
+  <img align="center" alt="matiello-GOOGLE LOOKER STUDIO" height="30" width="40" src="./assets/looker.svg">
+  <img align="center" alt="matiello-GIT" height="30" width="40" src="./assets/git.svg">
+  <img align="center" alt="matiello-GITHUB" height="30" width="40" src="./assets/github.svg">
   <img align="center" alt="matiello-VSC" height="30" width="40" src="./assets/vscode.svg">
-  <img align="center" alt="matiello-Notion" height="30" width="40" src="./assets/notion.svg">
+  <img align="center" alt="matiello-NOTION" height="30" width="40" src="./assets/notion.svg">
 </div>
 
 <!-- ****************************************** Contact ****************************************** -->
