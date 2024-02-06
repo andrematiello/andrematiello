@@ -40,7 +40,8 @@ E-mail: matiello.andre@hotmail.com<br>
 Site: coming soon<br>
 </p>
 
-<!-- ****************************************** Activity ***************************************** -->
+<!-- ****************************************** Activity *****************************************
+
 ##
 ### Activity
 <div>
@@ -48,3 +49,5 @@ Site: coming soon<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrematiello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrematiello&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+-->
