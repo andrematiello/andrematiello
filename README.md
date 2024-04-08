@@ -6,11 +6,11 @@
 
 ### About
 <p align="left">
-Currently, I'm Captain of the Military Police of the State of São Paulo.<br>
-Curious, studying data analytics.<br>
-Specializing in identifying problems, selecting, collecting, preparing and cleaning the best data for robust data processing and analysis, providing effective results, through sensational presentations, proposing the best possible business solutions.<br>
-Huge fan of @datascienceacademy @google @amazon @microsoft @apple @linkedin<br>
-#motivated #alwaysLearning #keepStudying
+
+⚡️Captain of the Military Police of São Paulo/BR.<br>
+Business problem solver and data solution seeker. Specializing in identifying problems, selecting, collecting, preparing and cleaning the best data for robust data processing and analysis, providing effective results, through sensational presentations, proposing the best possible business solutions.<br>
+Data Analyst | Microsoft Excel | SQL | Python | Tableau | Pentaho | ETL | QGIS<br>
+🔹️A long life learner! #alwaysLearning
 </p>
 
 <!-- ****************************************** Stack ****************************************** -->
