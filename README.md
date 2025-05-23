@@ -7,10 +7,12 @@
 ### About
 <p align="left">
 
-⚡️Captain of the Military Police of São Paulo/BR.<br>
-Business problem solver and data solution seeker. Specializing in identifying problems, selecting, collecting, preparing and cleaning the best data for robust data processing and analysis, providing effective results, through sensational presentations, proposing the best possible business solutions.<br>
-Data Analyst | Microsoft Excel | SQL | Python | Tableau | Pentaho | ETL | QGIS<br>
-🔹️A long life learner! #alwaysLearning
+🎲 🧑‍💻 Analytics Engineer | Data Analyst <br>
+SQL | Python | ELT/ETL | Cloud (Azure and AWS) | Data Viz | Git | Docker | Apache Airflow | dbt | Jenkins<br>
+Problem solver with a strong focus on Data Engineering and Analytics Engineering. Specialized in architecting and orchestrating scalable and reliable data pipelines, transforming complex and fragmented data sources into clean, well-structured datasets ready for analytics and business intelligence. Committed to ensuring data quality, reproducibility, and governance, supporting organizations in making data-driven decisions through automated and efficient ELT processes.<br>
+First the method, then the tools! <br>
+🔹️A long life learner! #alwaysLearning <br>
+⚡️Captain of the Military Police - São Paulo/BR
 </p>
 
 <!-- ****************************************** Stack ****************************************** -->
