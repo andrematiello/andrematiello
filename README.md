@@ -10,8 +10,10 @@
 🎲 🧑‍💻 Analytics Engineer | Data Analyst <br>
 SQL | Python | ELT/ETL | Cloud (Azure and AWS) | Data Viz | Git | Docker | Apache Airflow | dbt | Jenkins<br><br>
 Problem solver with a strong focus on Data Engineering and Analytics Engineering, specialized in architecting and orchestrating scalable and reliable data pipelines, transforming complex and fragmented data sources into clean, well-structured datasets ready for analytics and business intelligence.<br>
-Committed to ensuring data quality, reproducibility, and governance, supporting organizations in making data-driven decisions through automated and efficient ELT processes.<br>
-First the method, then the tools!<br><br>
+Committed to ensuring data quality, reproducibility, and governance, supporting organizations in making data-driven decisions through automated and efficient ELT processes.<br><br>
+
+--------------------------------------------
+🏆I truly believe: 'First the method, then the tools!'<br>
 🔹️A long life learner! #alwaysLearning <br>
 ⚡️Career officer, currently serving as Captain in the Military Police of São Paulo|BR
 </p>
